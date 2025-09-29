@@ -109,6 +109,3 @@ Outputs are saved in the reports/ folder.
 
 Venkatesh Kardile
 
-LinkedIn
-
-GitHub
