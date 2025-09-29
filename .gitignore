@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Data and models
+data/processed/
+models/
+*.pkl
+
+# OS
+.DS_Store
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# BI
+*.pbix
+*.twbx

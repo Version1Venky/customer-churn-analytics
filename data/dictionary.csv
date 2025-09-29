@@ -1,0 +1,22 @@
+column,description
+customer_id,Unique customer id
+gender,Customer gender
+senior_citizen,One if age sixty five or older
+partner,Yes or No
+dependents,Yes or No
+tenure_months,Months since service start
+phone_service,Yes or No
+multiple_lines,Multiple phone lines flag
+internet_service,DSL Fiber optic or No
+online_security,Security add on
+online_backup,Backup add on
+device_protection,Device protection add on
+tech_support,Tech support add on
+streaming_tv,Streaming TV add on
+streaming_movies,Streaming movies add on
+contract_type,Month to month One year Two year
+paperless_billing,Yes or No
+payment_method,Payment method string
+monthly_charges,Monthly bill amount
+total_charges,Total charges till date
+churn,Target one if churned
